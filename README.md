@@ -9,7 +9,7 @@
 ### The current project I am working on is:
 #### mscipro.pythonanywhere.com
 #### It is a a STEM education website which will provide countless STEM resources, problem generators, worksheets, coding playgrounds and a bunch of other stuff.
-#### I am currently rewriting it to use the MERN stack for the purpose of learning JavaScript. I have finished rewriting about 20% of the website and I plan to have it ready by early March.
+#### I am currently rewriting it to use the MERN stack for the purpose of learning JavaScript (also cuz I'm kinda done with relying on PythonAnywhere to host everything). I have finished rewriting about 20% of the website and I plan to have it ready by early March.
 
 ## Contact
 ### Email: ritesh.sivanathan@gmail.com
