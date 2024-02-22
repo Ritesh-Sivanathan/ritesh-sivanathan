@@ -6,9 +6,6 @@
 - 💻 C
 - 🌐 HTML / CSS
 
-## Current Project
-### Neural Network from Scratch ( Python ), maybe another language if I have the time
-
 ## Contact
 ### Email: ritesh.sivanathan@gmail.com
 
