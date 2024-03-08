@@ -1,6 +1,6 @@
 # Ritesh Sivanathan
-#### Hey! I'm a 15 y/o student interested in all things tech. I currently know a few languages and frameworks/libraries which include:
-- 🐍 Python ( Flask, Tensorflow, PyTorch, Pandas )
+#### Hey! I'm a 15 y/o student. I currently know a few languages and frameworks/libraries which include:
+- 🐍 Python ( Flask, Tensorflow, PyTorch, Pandas, CV2 )
 - 📜 Javascript ( React, Node.js, Express.js )
 - 🔵 Lua
 - 💻 C
@@ -8,5 +8,3 @@
 
 ## Contact
 ### Email: ritesh.sivanathan@gmail.com
-
-mscipro.pythonanywhere.com
