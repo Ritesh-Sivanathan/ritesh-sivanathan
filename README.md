@@ -7,5 +7,7 @@
 - 💻 C
 - 🌐 HTML / CSS
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritesh-Sivanathan)](https://git.io/streak-stats)
+
 ## Contact
 ### Email: ritesh.sivanathan@gmail.com
