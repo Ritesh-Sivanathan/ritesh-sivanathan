@@ -10,7 +10,6 @@
 - 💻 C
 - 🌐 HTML / CSS
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritesh-Sivanathan)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-sivanathan)](https://github.com/ritesh-sivanathan/github-readme-stats)
 
