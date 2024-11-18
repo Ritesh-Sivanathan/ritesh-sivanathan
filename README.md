@@ -10,7 +10,9 @@
 - 💻 C
 - 🌐 HTML / CSS
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritesh-Sivanathan)](https://git.io/streak-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-sivanathan)](https://github.com/ritesh-sivanathan/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=Ritesh-Sivanathan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-Sivanathan&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Sivanathan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-Sivanathan&theme=tokyo-night)
 ## Contact
 ### Email: ritesh.sivanathan@gmail.com
