@@ -4,7 +4,7 @@
 #### Technologies and Languages
 
 - 🐍 Python ( Flask, Tensorflow, PyTorch, Pandas, CV2 )
-- 💨 Go 
+- 💨 Go (Gin)
 - 📜 Javascript ( React, Node.js, Express.js )
 - 🔵 Lua
 - 💻 C
