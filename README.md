@@ -1,12 +1,9 @@
 # Ritesh Sivanathan
 
-16 y/o
+16 y/o, Toronto
 
-python | c | go | js
+Python, C, Go, JavaScript
 
-trying to learn as much as I can when i still have the time
-
-clublyy.com
-drivequestor.clublyy.com
+Learning as much as I can.
 
 Contact: ritesh.sivanathan@gmail.com
