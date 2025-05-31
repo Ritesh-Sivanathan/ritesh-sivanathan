@@ -4,6 +4,4 @@
 
 Python, C, Go, JavaScript
 
-Learning as much as I can.
-
 Contact: ritesh.sivanathan@gmail.com
