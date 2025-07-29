@@ -2,6 +2,6 @@
 
 16 y/o, Toronto
 
-Python, C, Go, JavaScript
+Python, C++, C, JavaScript
 
 Contact: ritesh.sivanathan@gmail.com
