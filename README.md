@@ -1,6 +1,6 @@
 # Ritesh Sivanathan
 
-17 y/o, Toronto <br>
+18 y/o, Toronto <br>
 Python, C++, C, JavaScript
 
 <b> <a href="https://riteshsiva.com" target="_blank"> My Website </a> </b> <br>
